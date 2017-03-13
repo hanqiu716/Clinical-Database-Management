@@ -1,0 +1,5 @@
+0	white, non-hispanic	10
+1	white, hispanic	10
+2	black	10
+3	asian	10
+4	other	10

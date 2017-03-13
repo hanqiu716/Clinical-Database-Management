@@ -1,0 +1,4 @@
+0	none	139
+1	monophasic	139
+2	biphasic	139
+3	triphasic	139

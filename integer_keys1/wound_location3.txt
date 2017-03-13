@@ -1,0 +1,13 @@
+0	Head	14
+1	neck	14
+2	shoulder	14
+3	chest	14
+4	back	14
+5	abdomen	14
+6	upper arm	14
+7	lower arm	14
+8	hand	14
+9	groin	14
+10	thigh	14
+11	lower leg	14
+12	foot	14

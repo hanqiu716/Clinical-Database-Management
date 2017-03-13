@@ -1,0 +1,4 @@
+0	chemical/enzymatic	62
+1	mechanical	62
+2	sharp	62
+3	not applicable	62

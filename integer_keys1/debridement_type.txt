@@ -1,0 +1,4 @@
+0	chemical/enzymatic	34
+1	mechanical	34
+2	sharp	34
+3	not applicable	34

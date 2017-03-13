@@ -1,0 +1,3 @@
+0	none	39
+1	acute	39
+2	chronic	39

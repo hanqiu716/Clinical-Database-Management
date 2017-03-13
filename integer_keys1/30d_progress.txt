@@ -1,0 +1,3 @@
+0	improved	50
+1	worsening	50
+2	no change	50

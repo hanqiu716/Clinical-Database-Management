@@ -1,0 +1,3 @@
+0	palpable	46
+1	doppler	46
+2	none	46

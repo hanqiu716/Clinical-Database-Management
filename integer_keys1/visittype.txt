@@ -1,0 +1,2 @@
+0	initial imaging	145
+1	follow up	145

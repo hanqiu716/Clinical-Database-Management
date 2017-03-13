@@ -1,0 +1,7 @@
+0	primary dressing	52
+1	compression	52
+2	off-loading	52
+3	wound_vac	52
+4	surgical debridement	52
+5	amputation	52
+6	grafting	52

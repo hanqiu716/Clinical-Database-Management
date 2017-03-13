@@ -1,0 +1,3 @@
+0	mild	76
+1	moderate	76
+2	severe	76

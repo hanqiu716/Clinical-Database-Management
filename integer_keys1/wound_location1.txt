@@ -1,0 +1,2 @@
+0	anterior	12
+1	posterior	12

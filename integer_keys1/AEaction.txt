@@ -1,0 +1,6 @@
+0	none	70
+1	medication	70
+2	medical procedure	70
+3	surgical procedure	70
+4	hospitalization	70
+5	other	70

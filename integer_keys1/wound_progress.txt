@@ -1,0 +1,4 @@
+0	improved	29
+1	worsening	29
+2	no change	29
+3	initial visit	29

@@ -1,0 +1,2 @@
+0	healed	49
+1	not healed	49

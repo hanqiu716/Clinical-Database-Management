@@ -1,0 +1,7 @@
+0	shear	54
+1	maceration	54
+2	hematoma	54
+3	desiccation	54
+4	infection	54
+5	seroma	54
+6	other	54

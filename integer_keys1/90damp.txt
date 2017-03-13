@@ -1,0 +1,6 @@
+0	toe	64
+1	trans-metatarsal	64
+2	through-ankle	64
+3	below knee	64
+4	above knee	64
+5	total hip disarticulation	64

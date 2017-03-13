@@ -1,0 +1,2 @@
+0	initial imaging	25
+1	Follow-up or Repeat Imaging	25 

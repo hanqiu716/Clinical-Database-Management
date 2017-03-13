@@ -1,0 +1,5 @@
+0	primary dressing	32
+1	compression	32
+2	off loading	32
+3	other	32
+4	not applicable	32

@@ -1,0 +1,4 @@
+0	resolved	71
+1	not resolved	71
+2	resolved with sequelae	71
+3	death	71

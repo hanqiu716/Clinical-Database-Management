@@ -1,0 +1,4 @@
+0	none	140
+1	monophasic	140
+2	biphasic	140
+3	triphasic	140

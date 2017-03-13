@@ -1,0 +1,3 @@
+0	improved	61
+1	worsening	61
+2	no change	61

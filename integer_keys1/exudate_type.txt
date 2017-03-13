@@ -1,0 +1,5 @@
+0	none	48
+1	serous	48
+2	sanguinous	48
+3	sero-sanguinous	48
+4	purulent	48

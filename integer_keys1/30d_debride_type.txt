@@ -1,0 +1,4 @@
+0	chemical/enzymatic	51
+1	mechanical	51
+2	sharp	51
+3	not applicable	51

@@ -1,0 +1,3 @@
+0	completed per protocol	75
+1	withdrawn	75
+2	exit due to AE	75

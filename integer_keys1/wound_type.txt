@@ -1,0 +1,6 @@
+0	Diabetic Foot Ulcer	11
+1	Burn	11
+2	Venous Stasis Ulcer	11
+3	Decubitus Ulcer	11
+4	Ischemic Wound	11
+5	Other	11

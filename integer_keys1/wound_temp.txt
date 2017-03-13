@@ -1,0 +1,3 @@
+0	within normal limits	44
+1	warm	44
+2	cold	44

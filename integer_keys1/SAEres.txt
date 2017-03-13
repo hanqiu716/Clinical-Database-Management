@@ -1,0 +1,5 @@
+0	death	78
+1	life-threatening	78
+2	hospitalization	78
+3	fetal death or congenital anomaly	78
+4	intervention to prevent permanent impairment	78

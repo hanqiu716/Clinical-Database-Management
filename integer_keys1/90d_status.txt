@@ -1,0 +1,2 @@
+0	healed	60
+1	not healed	60

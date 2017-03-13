@@ -1,0 +1,3 @@
+0	palpable	88
+1	nonpalpable	88
+2	not recorded	88

@@ -1,0 +1,6 @@
+0	toe	56
+1	trans-metatarsal	56
+2	through-ankle	56
+3	below knee	56
+4	above knee	56
+5	total hip disarticulation	56

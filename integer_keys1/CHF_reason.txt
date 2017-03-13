@@ -1,0 +1,4 @@
+0	by physical exam	37
+1	by chest xray	37
+2	by echo	37
+3	by weight	37	

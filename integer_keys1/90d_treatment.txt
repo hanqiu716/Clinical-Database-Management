@@ -1,0 +1,7 @@
+0	primary dressing	63
+1	compression	63
+2	off-loading	63
+3	wound_vac	63
+4	surgical debridement	63
+5	amputation	63
+6	grafting	63

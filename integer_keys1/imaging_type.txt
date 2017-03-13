@@ -1,0 +1,5 @@
+0	blood flow study	26
+1	decubitus	26
+2	burn	26
+3	diabetic_ischemic	26
+4	chronic wound	26

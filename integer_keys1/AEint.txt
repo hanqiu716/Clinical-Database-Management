@@ -1,0 +1,3 @@
+0	mild	65
+1	moderate	65
+2	severe	65

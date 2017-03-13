@@ -1,0 +1,5 @@
+0	none	47
+1	scant	47
+2	minimal	47
+3	moderate	47
+4	large/copious	47
